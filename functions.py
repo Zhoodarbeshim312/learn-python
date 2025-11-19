@@ -207,3 +207,7 @@
 #     print("Polindrom")
 # else:
 #     print("No polindrom")
+
+# text = input(": ")
+# newText = text.split()
+# print(f" узундугу {len(newText[-1])}")
