@@ -211,3 +211,16 @@
 # text = input(": ")
 # newText = text.split()
 # print(f" узундугу {len(newText[-1])}")
+
+# set — множество
+
+# fruits1 = {"apple", "banana", "melon"}
+# fruits2 = {"apple", "kiwi", "wotermelon"}
+# fruits.add("cherry")
+# fruits.discard("apple")
+# fruits.remove("apple")
+# print(fruits)
+# unionSet = fruits1.union(fruits2)
+# unionSet = fruits1.intersection(fruits2)
+# unionSet = fruits1.difference(fruits2)
+# print(unionSet)
