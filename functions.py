@@ -227,7 +227,7 @@
 
 # dict — словарь
 
-person = {"id": 1, "name": "Zhoodarbeshim", "job": "Developer"}
+# person = {"id": 1, "name": "Zhoodarbeshim", "job": "Developer"}
 
 # print(person["id"])
 # print(person.items())
