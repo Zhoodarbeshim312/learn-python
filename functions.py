@@ -239,3 +239,10 @@ person = {"id": 1, "name": "Zhoodarbeshim", "job": "Developer"}
 
 # del person["job"]
 # print(person)
+
+# team = {
+#     "dev1": {"name": "Zhoodar", "position": "backend"},
+#     "dev2": {"name": "Idris", "position": "frontend"},
+# }
+
+# print(team["dev2"]["position"])
