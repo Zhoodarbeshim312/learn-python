@@ -224,3 +224,18 @@
 # unionSet = fruits1.intersection(fruits2)
 # unionSet = fruits1.difference(fruits2)
 # print(unionSet)
+
+# dict — словарь
+
+person = {"id": 1, "name": "Zhoodarbeshim", "job": "Developer"}
+
+# print(person["id"])
+# print(person.items())
+# print(person.keys())
+# print(person.values())
+
+# person["city"] = "Bishkek"
+# print(person)
+
+# del person["job"]
+# print(person)
